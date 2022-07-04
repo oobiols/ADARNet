@@ -1,6 +1,12 @@
+## PYTHON >=3 AND PIP >= 19.x ARE ASSUMED. 
+## PLEASE GET ALL REQUIRED LIBRARIES FIRST:
+
+pip install -r requirements.txt
+
 ## DOWNLOAD THE DATASET
 
-The dataset can be found in this link: 
+cd datasets
+bash download.sh
 
 ### CODE:
 
